@@ -2,7 +2,7 @@
   <img src="https://static.vecteezy.com/system/resources/thumbnails/055/692/964/small/green-data-falling-matrix-wallpaper-background-banner-template-in-binary-numbers-with-geometric-cover-lines-vector.jpg" alt="Dark Cyber Banner" width="100%"/>
 </p>
 
-# 👨‍💻 Rizky Evory
+# 👨‍💻 QUEENSTREAM
 
 **Cyber Security Tools Developer • Penetration Testing Scripts • MQL5 Expert Advisor Engineer**
 
